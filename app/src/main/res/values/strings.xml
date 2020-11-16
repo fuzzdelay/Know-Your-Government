@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="about">About</string>
+    <string name="manualLocationEntry">Location Entry</string>
+    <string name="poweredBy">Powered by</string>
+    <string name="copyright">© 2020, Jonathan Hense</string>
+    <string name="version">Version 1.0</string>
+    <string name="googleAPI">
+        <a href="https://developers.google.com/civic-information/">Google Civic\nInformation API</a>
+    </string>
+    <string name="location">Location</string>
+    <string name="office">Office</string>
+    <string name="name">Name</string>
+    <string name="party">Party</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="separator">separator</string>
+    <string name="officialPhoto">Official Photo</string>
+    <string name="partyIcon">Party Icon</string>
+    <string name="facebookButton">Facebook</string>
+    <string name="twitterButton">Twitter</string>
+    <string name="youTubeButton">YouTube</string>
+
+
+</resources>
